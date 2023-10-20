@@ -1,0 +1,24 @@
+* {
+    background: black;
+}
+
+#style {
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 120px;
+}
+
+.header {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: capitalize;
+}
+
+#para {
+    text-align: center;
+}
+
+img {
+    border: 5px solid blue;
+    width: 100%;
+}
